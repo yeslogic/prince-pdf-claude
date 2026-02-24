@@ -1,0 +1,6 @@
+{
+  "prince": {
+    "type": "http",
+    "url": "https://prince.cloud/mcp"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "prince-pdf",
+  "description": "Convert HTML, Markdown, and XML documents to high-quality PDF using Prince. Supports custom CSS styling, page sizes, margins, PDF/A and PDF/UA profiles, and JavaScript execution.",
+  "author": {
+    "name": "YesLogic"
+  },
+  "homepage": "https://prince.cloud",
+  "version": "1.0.0"
+}
